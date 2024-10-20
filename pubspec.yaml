@@ -38,6 +38,7 @@ flutter:
     - assets/images/cat/
     - assets/images/landing/
     - assets/images/offres/
+    - assets/screenshots/
 
   # fonts:
   #   - family: Schyler
